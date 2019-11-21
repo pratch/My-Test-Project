@@ -1,2 +1,14 @@
 # My-Test-Project
-learning git
+
+My website created today.
+
+## Team Member
+- Mr. John 
+- Ms. Anne
+
+## Features
+
+- Support new file
+- Login page
+- Add new course
+
